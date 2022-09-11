@@ -26,7 +26,7 @@ export default function Home() {
             <h1 className={`${styles['']} ${styles['home__h1']}`}>Admin Element</h1>          
             <h1 className={`${styles['textCenter']} ${styles['home__h1b']}`}>Every business and household has an element of admin.</h1> 
                <p className={`${styles['textCenter']} ${styles['home__p']}`}>
-                  Let me focus on yours so you don't have to.
+                  Let me focus on yours so you do not have to.
                </p>           
        </div>   
 
