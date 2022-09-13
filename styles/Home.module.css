@@ -190,7 +190,8 @@ background: linear-gradient(rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0.85) 72%, #00
   padding-right: 1rem;
 }
 .secTwo { font-size: 1.2rem; }
-.landingText, .landingText2{ font-size: 2.2rem; }
+.landingText { font-size: 2.2rem; } 
+.landingText2{ font-size: 2.4rem; }
 .footercol{ 
   margin-left: 0;
  }
