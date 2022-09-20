@@ -191,7 +191,7 @@ export default function Home() {
 			<div className={styles.footercol}>
 				<ul className={styles.footercol__ul__list}>
 		  		<li>Admin Element</li>
-			  	<li><span className='material-icons-outlined'>phone</span> 0203 718 0730</li>
+			  	<li><span className='material-icons-outlined'>contact_phone</span> 0203 718 0730</li>
 					<li><span className='material-icons'>phone</span> 07930 342 485</li>
         	<li><span className='material-icons'>markunread</span> enquiries@adminelement.com</li>
 				</ul>
