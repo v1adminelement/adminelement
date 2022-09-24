@@ -144,6 +144,10 @@ background: linear-gradient(rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0.85) 72%, #00
 }
 @media only screen and (max-width: 768px){ 
  /* Tablets or iPad [480px -> 768px] */   
+ .homeContainer{ 
+  display: flex;
+  justify-content: space-around;
+}
  .home__h1{
     font-size: 4.5rem; 
   }   
@@ -152,7 +156,7 @@ background: linear-gradient(rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0.85) 72%, #00
     font-size: 2rem; 
     padding-left: 5rem;
     padding-right: 5rem;  
-    
+    padding-bottom: 4rem;    
    }
   .secTwo { font-size: 2rem; }
 
@@ -163,7 +167,8 @@ background: linear-gradient(rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0.85) 72%, #00
   .home__p{
     font-size: 1.4rem; 
     padding-left: 5rem;
-    padding-right: 5rem;  
+    padding-right: 5rem; 
+    padding-bottom: 4rem;
    }
   .secTwo { font-size: 1.5rem; }
   .footercol__ul__list{ 
@@ -173,6 +178,7 @@ background: linear-gradient(rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0.85) 72%, #00
  @media only screen and (max-width: 468px){  
   /*Mobile devices [320px -> 480px]*/
   .homeContainer{ 
+    display: flex;
     justify-content: space-around;
 }
    .home__h1{ 
