@@ -24,7 +24,7 @@ export default function Home() {
             />  
     
             <h1 className={`${styles['']} ${styles['home__h1']}`}>ADMIN ELEMENT</h1>          
-            <h1 className={`${styles['textCenter']} ${styles['home__h1b']}`}>EVERY BUSINESS AND HOUSEHOLD HAS AN ELEMENT OF ADMIN</h1> 
+            <h1 className={`${styles['textCenter']} ${styles['home__h1b']}`}>ADMIN & BOOKKEEPING SERVICES FOR BUSINESS & PERSONAL</h1> 
                <p className={`${styles['textCenter']} ${styles['home__p']}`}>
                   LET ME FOCUS ON YOURS SO YOU DONT HAVE TO
                </p>           
