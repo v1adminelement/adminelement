@@ -94,7 +94,7 @@ export default function Home() {
                 objectPosition='center'
                 alt="logo"                
             />            
-            <h1 className={`${styles['textCenter']} ${styles['home__h1']}`}>Why wait ?</h1>          
+            <h1 className={`${styles['textCenter']} ${styles['home__h1']}`}>WHY WAIT ?</h1>          
             <h1 className={`${styles['textCenter']} ${styles['home__h1b']}`}>Sole Trader, Limited, Start Up Etc</h1>           
             <p className={`${styles['textCenter']} ${styles['home__p']}`}>LETS GET STARTED</p>                      
     </div>
