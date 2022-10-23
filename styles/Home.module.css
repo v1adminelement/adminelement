@@ -117,11 +117,11 @@ background: linear-gradient(rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0.85) 72%, #00
 
 @media only screen and (max-width: 1200px){
   /*Desktop or large-size screen [1024px -> 1200px]*/
-  .home__h1b{ 
+  /* .home__h1b{ 
     font-size: 4rem; 
     padding-left: 4rem;
     padding-right: 4rem;
-  }   
+  }    */
 }
 @media only screen and (max-width: 1024px){
   /*Laptop or small-size screen [768px -> 1024px]*/
