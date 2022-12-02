@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Image from 'next/image'
+import Link from 'next/link'
 
 
 export default function Home() {
@@ -31,6 +32,7 @@ export default function Home() {
        </div>   
 
     <div className={styles.gridContainer}>
+    <Link href="/admin">
       <div className={styles.container}>
          <div className={styles.gradientOverlay}></div>
             <Image
@@ -43,6 +45,7 @@ export default function Home() {
             />    
             <h1 className={styles.landingText}>ADMIN</h1>    
         </div>
+      </Link>
  
       <div className={styles.container}>
         <div className={styles.gradientOverlay}></div>
