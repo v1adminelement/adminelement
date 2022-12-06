@@ -47,6 +47,7 @@ export default function Home() {
         </div>
       </Link>
  
+      <Link href="/bookkeeping">
       <div className={styles.container}>
         <div className={styles.gradientOverlay}></div>
             <Image
@@ -58,8 +59,10 @@ export default function Home() {
                 alt="logo"
             />    
             <h1 className={styles.landingText}>BOOKKEEPING</h1>    
-        </div>      
+        </div>  
+        </Link>    
 
+        <Link href="/personal">
         <div className={styles.container}>
         <div className={styles.gradientOverlay}></div>
             <Image
@@ -72,6 +75,7 @@ export default function Home() {
             />    
             <h1 className={styles.landingText}>BUSINESS</h1>    
         </div>  
+        </Link>
 
       <div className={styles.container}>
          <div className={styles.gradientOverlay}></div>
