@@ -19,11 +19,13 @@ export default function Bookkeeping() {
             <li>Receipts</li>
             <li>Reconcilliation</li>
             <li>Banking</li>
-            <li>Petty Cash Management</li>
+            <li>Petty Cash </li>
+            <li>Management</li>
             <li>Supplier Statements</li>
             <li>Manage Journals</li>
-            <li>Self Assessment Guidance</li>
-            <li>Financial Statements Prep</li>
+            <li>Guidance</li>
+            <li>Self Assessment</li>             
+            <li>Financial Statements</li>
             <li>Spreadsheets</li>
             <li>Creation and Updating</li>              
          </ul>         

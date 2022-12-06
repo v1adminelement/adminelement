@@ -62,7 +62,7 @@ export default function Home() {
         </div>  
         </Link>    
 
-        <Link href="/personal">
+        <Link href="/business">
         <div className={styles.container}>
         <div className={styles.gradientOverlay}></div>
             <Image
@@ -77,6 +77,7 @@ export default function Home() {
         </div>  
         </Link>
 
+      <Link href="/personal">
       <div className={styles.container}>
          <div className={styles.gradientOverlay}></div>
             <Image
@@ -88,7 +89,9 @@ export default function Home() {
                 alt="logo"
             />    
             <h1 className={styles.landingText}>PERSONAL</h1>    
-       </div>              
+       </div>   
+       </Link>
+                  
      </div>
   
      <div className={`${styles['homeContainer']} ${styles['mt1']}`}>

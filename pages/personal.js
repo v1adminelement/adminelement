@@ -18,7 +18,8 @@ export default function Personal() {
             <li>Filing</li>
             <li>Letter writing</li>
             <li>Organisation</li>
-            <li>Hard copy and electronic</li>
+            <li>Hard copy </li>
+            <li>Electronic</li>
             <li>Household</li>
             <li>Paperwork Mangement</li>              
          </ul>         
