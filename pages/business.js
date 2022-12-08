@@ -12,12 +12,14 @@ export default function Business() {
       </Head>  
    
          <ul className={styles.ulListContainer}>   
-           <li>Business Services</li>  
-           <li>Business Services</li>   
-           <li>Business Services</li>   
-           <li>Business Services</li>   
-           <li>Business Services</li>   
-           <li>Business Services</li>             
+           <li>Business Services</li> 
+           <li>Inland Revenue</li>  
+           <li>Office Support</li>   
+           <li>Accounts</li>
+           <li>Spreadsheets</li>   
+           <li>Organisation Management</li>   
+           <li>Research</li>   
+           <li>Customer Services</li>             
          </ul>         
 </div>
   )

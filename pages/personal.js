@@ -21,7 +21,7 @@ export default function Personal() {
             <li>Hard copy </li>
             <li>Electronic</li>
             <li>Household</li>
-            <li>Paperwork Mangement</li>              
+            <li>Paperwork Management</li>              
          </ul>         
 </div>
   )
