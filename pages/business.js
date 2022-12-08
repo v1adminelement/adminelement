@@ -17,7 +17,8 @@ export default function Business() {
            <li>Office Support</li>   
            <li>Accounts</li>
            <li>Spreadsheets</li>   
-           <li>Organisation Management</li>   
+           <li>Organisation</li>   
+           <li>Management</li>
            <li>Research</li>   
            <li>Customer Services</li>             
          </ul>         
