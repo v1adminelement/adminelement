@@ -2,7 +2,6 @@ html,
 body {
   padding: 0;
   margin: 0;
-  /* box-sizing: border-box; */
   font-family: 'Orbitron', sans-serif; 
   background-color: #000;  
   overflow-x: hidden;  
@@ -10,5 +9,10 @@ body {
 
 * {
   box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
 }
 
