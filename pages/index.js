@@ -32,7 +32,7 @@ export default function Home() {
        </div>   
 
     <div className={styles.gridContainer}>
-    <Link href="/admintwo">
+    <Link href="/admin">
       <div className={styles.container}>
          <div className={styles.gradientOverlay}></div>
             <Image
