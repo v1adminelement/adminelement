@@ -5,7 +5,7 @@ import Link from 'next/link'
 
 export default function Admin() {
     return (
-      <div className={styles.bodya}>        
+      <div className={styles.bodyAdmin}>        
             <Image             
                 src="https://images.unsplash.com/photo-1506784693919-ef06d93c28d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
                 layout='fill'
@@ -31,8 +31,7 @@ export default function Admin() {
                   <span>Data Entry</span>
                 </h2>
                 <p className={styles.listLink__description}>
-                 Culpa labore dolore reprehenderit ullamco nisi
-                 officia voluptate pariatur veniam officia laboris                 
+                Updating ...
                 </p>
                 </a>
               </Link>             
@@ -45,8 +44,7 @@ export default function Admin() {
                   <span>Proofreading</span>
                 </h2>
                 <p className={styles.listLink__description}>
-                  Culpa labore dolore reprehenderit ullamco nisi
-                  officia voluptate pariatur veniam officia laboris     
+                  Updating ...    
                 </p>
               </a>
               </Link>             
@@ -59,8 +57,7 @@ export default function Admin() {
                   <span>Audio Typing / Dictation</span>
                 </h2>
                 <p className={styles.listLink__description}>
-                   Culpa labore dolore reprehenderit ullamco nisi
-                   officia voluptate pariatur veniam officia laboris     
+                  Updating ...   
                 </p>
               </a>
               </Link>             
@@ -70,19 +67,67 @@ export default function Admin() {
               <Link href="/" className={styles.listLink}>
               <a>
                 <h2 className={styles.listLink__header}>
-                  <span>Document / Form Creation</span>
+                  <span>Document Development</span>
                 </h2>
                 <p className={styles.listLink__description}>
-                  Culpa labore dolore reprehenderit ullamco nisi
-                  officia voluptate pariatur veniam officia laboris     
+                   Updating ...     
+                </p>
+              </a>
+              </Link>             
+            </li>
+            
+            <li className={styles.listItem}>
+              <Link href="/" className={styles.listLink}>
+              <a>
+                <h2 className={styles.listLink__header}>
+                  <span>Starter Form/ Form Creation</span>
+                </h2>
+                <p className={styles.listLink__description}>
+                   Updating ...     
                 </p>
               </a>
               </Link>             
             </li>
 
+            <li className={styles.listItem}>
+              <Link href="/" className={styles.listLink}>
+              <a>
+                <h2 className={styles.listLink__header}>
+                  <span>Business Start Up Tasks</span>
+                </h2>
+                <p className={styles.listLink__description}>
+                   Updating ...     
+                </p>
+              </a>
+              </Link>             
+            </li>
+
+            <li className={styles.listItem}>
+              <Link href="/" className={styles.listLink}>
+              <a>
+                <h2 className={styles.listLink__header}>
+                  <span>Office Set Up</span>
+                </h2>
+                <p className={styles.listLink__description}>
+                   Updating ...     
+                </p>
+              </a>
+              </Link>             
+            </li>
+
+            <li className={styles.listItem}>
+              <Link href="/" className={styles.listLink}>
+              <a>
+                <h2 className={styles.listLink__header}>
+                  <span>Research</span>
+                </h2>
+                <p className={styles.listLink__description}>
+                   Updating ...     
+                </p>
+              </a>
+              </Link>             
+            </li>
           </ol>
-
-
         </section>          
       </div>
     )
