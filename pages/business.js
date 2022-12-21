@@ -7,7 +7,7 @@ export default function Business() {
     return (
       <div className={styles.bodyBusiness}>        
             <Image             
-                src="https://images.unsplash.com/photo-1506784693919-ef06d93c28d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                src="https://images.unsplash.com/photo-1671540675967-7342577470d0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=700&q=60"
                 layout='fill'
                 objectFit='cover'
                 objectPosition='center'
@@ -119,7 +119,7 @@ export default function Business() {
               <Link href="/" className={styles.listLink}>
               <a>
                 <h2 className={styles.listLink__header}>
-                  <span>Customer Services</span>
+                  <span>Business Support</span>
                 </h2>
                 <p className={styles.listLink__description}>
                    Updating ...     

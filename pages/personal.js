@@ -7,7 +7,7 @@ export default function Personal() {
     return (
       <div className={styles.bodyPersonal}>        
             <Image             
-                src="https://images.unsplash.com/photo-1506784693919-ef06d93c28d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                src="https://images.unsplash.com/photo-1509023464722-18d996393ca8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGFya3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
                 layout='fill'
                 objectFit='cover'
                 objectPosition='center'

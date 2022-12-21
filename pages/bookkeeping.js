@@ -7,7 +7,7 @@ export default function Bookkeeping() {
     return (
       <div className={styles.bodyBookkeeping}>        
             <Image             
-                src="https://images.unsplash.com/photo-1506784693919-ef06d93c28d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                src="https://images.unsplash.com/photo-1657212850528-c738d087e6f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDc2fGFldTZyTC1qNmV3fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
                 layout='fill'
                 objectFit='cover'
                 objectPosition='center'
