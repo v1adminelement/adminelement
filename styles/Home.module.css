@@ -26,6 +26,7 @@
   text-shadow: 2px 2px 8px #cacdd2;
   justify-content: center;
   display:flex;
+  line-height: 5rem;
 }
 .home__h1b{
   font-size: 3rem;
