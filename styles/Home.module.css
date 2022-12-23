@@ -158,7 +158,7 @@ background: linear-gradient(rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0.85) 72%, #00
     padding-right: 5rem;  
     padding-bottom: 5rem;    
    }
-  .secTwo { font-size: 1.6rem; }  /*original 2rem*/
+   .landingText, .secTwo { font-size: 1.6rem; }  /*original 2rem*/
   .footercol__ul__list{ 
     font-size: 1rem;
 }
