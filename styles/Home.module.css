@@ -52,7 +52,7 @@
 
 .gridContainer{
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px,1fr));/*ORIGINAL 280px*/
+  grid-template-columns: repeat(auto-fit, minmax(260px,1fr));/*ORIGINAL 280px*/
   grid-gap: 10px;   
 }
 
@@ -158,7 +158,7 @@ background: linear-gradient(rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0.85) 72%, #00
     padding-right: 5rem;  
     padding-bottom: 5rem;    
    }
-  .secTwo { font-size: 2rem; }  
+  .secTwo { font-size: 1.6rem; }  /*original 2rem*/
   .footercol__ul__list{ 
     font-size: 1rem;
 }
