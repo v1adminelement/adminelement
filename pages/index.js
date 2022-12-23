@@ -110,10 +110,11 @@ export default function Home() {
     </div>
 
     <div className={styles.secTwo}>
-       <p>Whether a one off, small or large job, short or
-           long term project.<br/>Choose from one of the
-           packages or contact me and we can discuss the
+       <p>One off, small or large job. Short or
+           long term project.<br/>
+           Contact to discuss the
            package that is right for you.
+           Package options below.
         </p>
     </div>
 
