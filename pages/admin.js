@@ -31,7 +31,8 @@ export default function Admin() {
                   <span>Data Entry</span>
                 </h2>
                 <p className={styles.listLink__description}>
-                Updating ...
+                  Info and documents such as invoices, credit notes etc 
+                  entered into a record keping system, offline and online
                 </p>
                 </a>
               </Link>             
