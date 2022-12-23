@@ -26,9 +26,9 @@ export default function Home() {
     
             <h1 className={`${styles['']} ${styles['home__h1']}`}>ADMIN ELEMENT</h1>          
             <h1 className={`${styles['textCenter']} ${styles['home__h1b']}`}>ADMIN & BOOKKEEPING SERVICES FOR BUSINESS & PERSONAL</h1> 
-               {/* <p className={`${styles['textCenter']} ${styles['home__p']}`}>
+               <p className={`${styles['textCenter']} ${styles['home__p']}`}>
                   LETS GET YOUR ADMIN & BOOKKEEPING IN SHAPE
-               </p>            */}
+               </p>           
        </div>   
 
     <div className={styles.gridContainer}>
