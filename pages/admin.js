@@ -31,8 +31,8 @@ export default function Admin() {
                   <span>Data Entry</span>
                 </h2>
                 <p className={styles.listLink__description}>
-                  Info and documents such as invoices, credit notes etc 
-                  entered into a record keping system, offline and online
+                   Info and documents - invoices, credit notes etc 
+                   entered into a record keeping system, offline and online.
                 </p>
                 </a>
               </Link>             
@@ -45,7 +45,8 @@ export default function Admin() {
                   <span>Proofreading</span>
                 </h2>
                 <p className={styles.listLink__description}>
-                  Updating ...    
+                  Reformatting, correcting or editing of documents such as 
+                  letters, presentations etc.    
                 </p>
               </a>
               </Link>             
@@ -58,7 +59,9 @@ export default function Admin() {
                   <span>Audio Typing / Dictation</span>
                 </h2>
                 <p className={styles.listLink__description}>
-                  Updating ...   
+                 Transcribing audio - speeches, dictations, interviews etc
+                 into text.
+
                 </p>
               </a>
               </Link>             
@@ -71,7 +74,8 @@ export default function Admin() {
                   <span>Document Development</span>
                 </h2>
                 <p className={styles.listLink__description}>
-                   Updating ...     
+                   Templates - spreadsheet creation :- starter forms, 
+                   stock take, application forms etc. Letter templates.  
                 </p>
               </a>
               </Link>             
