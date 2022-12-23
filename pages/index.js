@@ -82,7 +82,7 @@ export default function Home() {
          <div className={styles.gradientOverlay}></div>
             <Image
                 className={styles.landingImage}   
-                src="https://images.unsplash.com/photo-1556020685-ae41abfc9365?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmVkcm9vbXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"             
+                src="https://images.unsplash.com/photo-1556020685-ae41abfc9365?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmVkcm9vbXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"     
                 layout='fill'
                 objectFit='cover'
                 objectPosition='center'

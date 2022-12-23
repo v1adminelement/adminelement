@@ -8,6 +8,7 @@ export default function Personal() {
       <div className={styles.bodyPersonal}>        
             <Image             
                 src="https://images.unsplash.com/photo-1509023464722-18d996393ca8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGFya3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
+                // src="https://images.unsplash.com/photo-1556020685-ae41abfc9365?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmVkcm9vbXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"     
                 layout='fill'
                 objectFit='cover'
                 objectPosition='center'
