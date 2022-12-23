@@ -113,7 +113,7 @@ export default function Home() {
        <p>One off, small or large job. Short or
            long term project.<br/>
            Contact to discuss the
-           package that is right for you.
+           package that is right for you.<br/>
            Package options below.
         </p>
     </div>
