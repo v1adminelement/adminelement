@@ -52,8 +52,8 @@
 
 .gridContainer{
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px,1fr));/*ORIGINAL 280px*/
-  grid-gap: 10px;   
+  grid-template-columns: repeat(auto-fit, minmax(280px,1fr));/*ORIGINAL 280px*/
+  grid-gap: 1rem;   
 }
 
 .container{ 
@@ -117,11 +117,15 @@ background: linear-gradient(rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0.85) 72%, #00
 
 @media only screen and (max-width: 1200px){
   /*Desktop or large-size screen [1024px -> 1200px]*/
-  /* .home__h1b{ 
-    font-size: 4rem; 
-    padding-left: 4rem;
-    padding-right: 4rem;
-  }    */
+  .gridContainer{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(270px,1fr));/*ORIGINAL 280px*/
+    grid-gap: 10px;   
+  }
+  .landingText{ 
+    font-size: 2rem;  
+  }
+  
 }
 @media only screen and (max-width: 1024px){
   /*Laptop or small-size screen [768px -> 1024px]*/
