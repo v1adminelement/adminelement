@@ -219,7 +219,7 @@ background: linear-gradient(rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0.85) 72%, #00
     padding-right: 5rem;  
     padding-bottom: 5rem;    
    }
-   .landingText, .secTwo { font-size: 2rem; } 
+   .landingText, .secTwo { font-size: 1.6rem; } 
   .footercol__ul__list{ 
     font-size: 1rem;
 }
@@ -253,7 +253,7 @@ background: linear-gradient(rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0.85) 72%, #00
   padding-right: 1rem;
 }
 .secTwo { font-size: 1.2rem; }
-.landingText { font-size: 1rem; } 
+.landingText { font-size: 2rem; } 
 .landingText2{ 
   font-size: 2rem;
   padding-top: 1rem;
