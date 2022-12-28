@@ -112,11 +112,28 @@ export default function Home() {
     <div className={styles.secTwo}>
        <p>One off, small or large job. Short or
            long term project.<br/>
-           Contact to discuss the
+           Make contact to discuss the
            package that is right for you.<br/>
            Package options below.
         </p>
     </div>
+    
+    {/* <div className={styles.secTwo}>
+       <p>One off, small or large job. Short or
+           long term project.<br/>
+           Make contact to discuss the
+           package that is right for you.<br/>
+           Package options below.
+        </p>
+    </div> */}
+
+     {/* <div className={styles.secBTwo}>            
+       <p className={styles.p}>Welcome to Admin Element<br/>
+          <a className={styles.a}>Make contact to discuss the
+              package that is right for you.<br/>
+          </a>           
+       </p>         
+    </div>     */}
 
     <div className={styles.gridContainer}>
         <div className={styles.container}>
