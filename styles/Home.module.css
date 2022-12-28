@@ -176,7 +176,7 @@ background: linear-gradient(rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0.85) 72%, #00
 
   .gridContainer{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px,1fr));/*ORIGINAL 280px*/
+    grid-template-columns: repeat(auto-fit, minmax(200px,1fr));/*ORIGINAL 280px*/
     grid-gap: 10px;   
   }
   
