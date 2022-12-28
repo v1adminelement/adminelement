@@ -199,6 +199,12 @@ background: linear-gradient(rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0.85) 72%, #00
 }
 @media only screen and (max-width: 768px) { 
  /* Tablets or iPad [480px -> 768px] */   
+
+ .gridContainer{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px,1fr));/*ORIGINAL 280px*/
+  grid-gap: 10px;   
+}
  .homeContainer{ 
   display: flex;
   justify-content: space-around;
