@@ -117,7 +117,7 @@ export default function Home() {
            Package options below.
         </p>
     </div>
-    
+
     {/* <div className={styles.secTwo}>
        <p>One off, small or large job. Short or
            long term project.<br/>
@@ -226,7 +226,7 @@ export default function Home() {
 			</div>		
     
 		<div className={`${styles['']} ${styles['textCenter']} ${styles['footer__copyright']}`}>
-			<p>&copy; 2022 Admin Element</p>
+			<p>&copy; 2023 Admin Element</p>
 		</div>
 
 	</footer>
