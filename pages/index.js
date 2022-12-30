@@ -226,7 +226,7 @@ export default function Home() {
 			</div>		
     
 		<div className={`${styles['']} ${styles['textCenter']} ${styles['footer__copyright']}`}>
-			<p>&copy; 2022 Admin Element</p>
+			<p>&copy; 2023 Admin Element</p>
 		</div>
 
 	</footer>
