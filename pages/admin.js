@@ -12,7 +12,7 @@ export default function Admin() {
                 objectFit='cover'
                 objectPosition='center'
                 alt="logo"                   
-                priority={true}             
+                priority={true}                             
             />  
         <Head>
           <title>Admin</title>

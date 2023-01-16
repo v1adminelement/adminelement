@@ -43,7 +43,7 @@ export default function Home() {
                 objectPosition='center'
                 alt="logo"
             />    
-            <h1 className={styles.landingText}>ADMIN</h1>    
+            <h1 className={styles.landingText}>ADMIN</h1>            
         </div>
       </Link>
  
@@ -221,7 +221,7 @@ export default function Home() {
 		  		<li>Admin Element</li>
 			  	<li><span className='material-icons'>phone</span> 0203 718 0730</li>
 					<li><span className='material-icons'>phone</span> 07930 342 485</li>
-        	<li><span className='material-icons'>markunread</span> info@adminelement.com</li>
+        	<li><span className='material-icons'>markunread</span>adminelement@gmail.com</li>
 				</ul>
 			</div>		
     
